@@ -1,3 +1,3 @@
 # tic_toc
 
-Basic Tic Toc game using Python3
+Basic Tic Toc game using Python3. Command line interface.
